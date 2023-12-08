@@ -1,0 +1,40 @@
+{
+    "name": "واتقو الله لعلكم ترحمون",
+    "description": "User bot for telegram !",
+    "stack": "container",
+    "logo" : "https://telegra.ph/file/b7bfa1368dc6c0aa1171e.jpg",
+    "repository": "https://t.me/C35CS",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://t.me/C35CS",
+    "env": {
+        "APP_ID": {
+            "description": "ايبي ايدي",
+            "value": "",
+            "required": true
+        },
+        "APP_HASH": {
+            "description": "هاش",
+            "value": "",
+            "required": true
+        },
+        "TERMUX": {
+            "description": "كود تيرمكس",
+            "value": "",
+            "required": true
+        },
+        "TOKEN": {
+            "description": "توكن",
+            "value": "",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "يوزر البوت",
+            "value": "",
+            "required": true
+        }
+    }
+}
